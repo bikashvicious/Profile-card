@@ -1,0 +1,49 @@
+.footer-div {
+  position: absolute;
+  width: 317px;
+  height: 64px;
+  left: 616px;
+  top: 640px;
+
+  background: #d5d4d8;
+  border-radius: 0px 0px 10px 10px;
+}
+.twitter {
+  position: absolute;
+  left: 675px;
+  right: 61.09%;
+  top: 87%;
+  bottom: 7.32%;
+  cursor: pointer;
+  background: #918e9b;
+}
+
+.facebook {
+  position: absolute;
+  left: 725px;
+  right: 52.18%;
+  top: 87%;
+  bottom: 7.32%;
+  cursor: pointer;
+  background: #918e9b;
+}
+
+.insta {
+  position: absolute;
+  left: 775px;
+  right: 52.18%;
+  top: 87%;
+  bottom: 7.32%;
+  cursor: pointer;
+  background: #918e9b;
+}
+
+.github {
+  position: absolute;
+  left: 825px;
+  right: 52.18%;
+  top: 87%;
+  bottom: 7.32%;
+  cursor: pointer;
+  background: #918e9b;
+}

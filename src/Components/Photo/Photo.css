@@ -1,0 +1,18 @@
+.main {
+  position: absolute;
+  width: 550px;
+  height: 705px;
+  left: 500px;
+  top: 20px;
+  background: #23252c;
+  border-radius: 5px;
+}
+.main--two {
+  position: absolute;
+  width: 317px;
+  height: 321px;
+  left: 116px;
+  top: 20px;
+
+  border-radius: 10px 10px 0px 0px;
+}
